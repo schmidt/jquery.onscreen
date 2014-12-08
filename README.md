@@ -25,7 +25,8 @@ Scroll element into view if it was not visible before
 Future work
 -----------
 
-Add `:fullyonscreen` which would match if the whole element is on the screen,
+* Add tests
+* Add `:fullyonscreen` which would match if the whole element is on the screen,
 not just parts of it.
 
 Copyright
