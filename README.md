@@ -37,7 +37,12 @@ jsfiddle.
 
 Here are the relevant sources:
 
-Author: pebbl http://pebbl.co.uk/
-StackOverflow: http://stackoverflow.com/q/487073/817202#comment41045330_21627295
-JSFiddle: http://jsfiddle.net/9nuqpgqa/
+<dl>
+<dt>Author:</dt>
+<dd>pebbl http://pebbl.co.uk/</dd>
+<dt>StackOverflow:<dt>
+<dd>http://stackoverflow.com/q/487073/817202#comment41045330_21627295</dd>
+<dt>JSFiddle:<dt>
+<dd>http://jsfiddle.net/9nuqpgqa/</dd>
+</dl>
 
